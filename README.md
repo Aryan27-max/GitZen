@@ -1,4 +1,4 @@
-![Screenshot 2025-03-29 231713](https://github.com/user-attachments/assets/e08e1252-21ca-4222-8b86-88c017420ed4)# 🧠 GitZen – Elevate Your Dev Journey
+## 🧠 GitZen – Elevate Your Dev Journey
 
 Welcome to **GitZen**, an AI-powered developer platform designed to enhance your productivity and skillset with a futuristic, Matrix-themed interface.
 
