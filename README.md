@@ -1,4 +1,4 @@
-# 🧠 GitZen – Elevate Your Dev Journey
+![Screenshot 2025-03-29 231713](https://github.com/user-attachments/assets/e08e1252-21ca-4222-8b86-88c017420ed4)# 🧠 GitZen – Elevate Your Dev Journey
 
 Welcome to **GitZen**, an AI-powered developer platform designed to enhance your productivity and skillset with a futuristic, Matrix-themed interface.
 
@@ -145,5 +145,21 @@ We'd love your thoughts! Open issues, suggest features, or reach out for collabo
 
 ---
 > “Code like a Zen master. Push like a pro. GitZen awaits.” 🧘‍♂️🖥️
-```
 
+----------------------
+
+here are some pics from the prototype 
+
+![Screenshot 2025-03-29 231713](https://github.com/user-attachments/assets/e81a869a-9d7a-4765-8430-e85764d77a6e)
+
+![Screenshot 2025-03-29 231724](https://github.com/user-attachments/assets/ee3d9fe8-c37d-4c7d-bc68-527736ef970c)
+
+![Screenshot 2025-03-29 231736](https://github.com/user-attachments/assets/51893c1d-d7e6-451e-a625-48035ef30a55)
+
+![Screenshot 2025-03-29 231748](https://github.com/user-attachments/assets/7461640e-c338-4b43-8fd0-ac76ae44fd04)
+
+![Screenshot 2025-03-29 231759](https://github.com/user-attachments/assets/45f56fbd-02c8-4b1e-9e09-c83c0e96f28f)
+
+![Screenshot 2025-03-29 231813](https://github.com/user-attachments/assets/dcc59975-ba4d-4daa-ab27-736744ea90ad)
+
+![Screenshot 2025-03-29 231824](https://github.com/user-attachments/assets/29e5f968-816f-4625-bd8e-62f29d6397ce)
