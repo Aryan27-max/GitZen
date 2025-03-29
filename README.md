@@ -150,6 +150,8 @@ We'd love your thoughts! Open issues, suggest features, or reach out for collabo
 
 here are some pics from the prototype 
 
+##Frontend
+
 ![Screenshot 2025-03-29 231713](https://github.com/user-attachments/assets/e81a869a-9d7a-4765-8430-e85764d77a6e)
 
 ![Screenshot 2025-03-29 231724](https://github.com/user-attachments/assets/ee3d9fe8-c37d-4c7d-bc68-527736ef970c)
@@ -163,3 +165,8 @@ here are some pics from the prototype
 ![Screenshot 2025-03-29 231813](https://github.com/user-attachments/assets/dcc59975-ba4d-4daa-ab27-736744ea90ad)
 
 ![Screenshot 2025-03-29 231824](https://github.com/user-attachments/assets/29e5f968-816f-4625-bd8e-62f29d6397ce)
+
+##Backend using Fast API
+
+![image](https://github.com/user-attachments/assets/906f22c8-83c1-4522-a11e-b07c932b4a57)
+
