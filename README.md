@@ -50,7 +50,7 @@ Build a professional, developer-focused resume and **export it as PDF**, complet
   - `/snippify`
   - `/github`
 
----
+----
 
 ## 🧩 How It Works
 
